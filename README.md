@@ -1,2 +1,2 @@
 # Prime-Number-Finder
-判斷質數相關程式
+找範圍內質數數量

@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\bin\Debug\Prime Number Finder.exe.config
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\bin\Debug\Prime Number Finder.exe
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\bin\Debug\Prime Number Finder.pdb
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime Number Finder.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime_Number_Finder.Form1.resources
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime_Number_Finder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime Number Finder.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime Number Finder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime Number Finder.exe
+C:\Users\Administrator\Desktop\Prime Number Finder\Prime Number Finder\obj\Debug\Prime Number Finder.pdb
